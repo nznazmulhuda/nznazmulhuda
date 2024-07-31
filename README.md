@@ -52,7 +52,7 @@
 - 📫 How to reach me: [Nazmul Huda](https://www.facebook.com/nznazmulhuda)
 - 💬 Contact no - 01580507352 (mobile & whatsapp)
 - 🌱 Email address - nznazmulhuda04@gmail.com
-- 📫 My CV - [Click to See](https://docs.google.com/document/d/162PSA5iAb97nnFZ5dYEJFakhbgWwjTYELetqRQoHwxw/edit?usp=sharing)
+- 📫 My CV - [Click to See](https://docs.google.com/document/d/12sPMFHzbuahsxaSzLKF_mn4Aws5k71YIVz44SVCJTm0/edit?usp=sharing)
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
