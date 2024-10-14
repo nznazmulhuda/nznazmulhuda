@@ -9,6 +9,7 @@
  </abc>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=nznazmulhuda&theme=shadow-brown&_border=true&card_width=600&card_height=200)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=gotham" alt="nznazmulhuda" />
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
