@@ -8,8 +8,11 @@
   <br>
  </abc>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nznazmulhuda&theme=shadow-brown&_border=true&card_width=600&card_height=200)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=gotham" alt="nznazmulhuda" />
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=dark&border=false" width="49%" height=200>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=nznazmulhuda&theme=shadow-brown" width="49%" height=200>
+  </p>
+  
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
@@ -54,6 +57,8 @@
 - 💬 Contact no - 01580507352 (mobile & whatsapp)
 - 🌱 Email address - nznazmulhuda04@gmail.com
 - 📫 My CV - [Click to See](https://drive.google.com/file/d/1uppbMFhlInEjOX1GAUNjh-FVp0OL8AEG/view?usp=sharing)
+
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
