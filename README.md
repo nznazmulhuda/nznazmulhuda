@@ -46,13 +46,13 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 👨🏽‍💻 I’m currently working on react.js, next.js
+- 👨🏽‍💻 I’m currently working on react.js, next.js.
 - 🌱 I’m currently learning typescript
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Nazmul Huda](https://www.facebook.com/nznazmulhuda)
 - 💬 Contact no - 01580507352 (mobile & whatsapp)
 - 🌱 Email address - nznazmulhuda04@gmail.com
-- 📫 My CV - [Click to See](https://docs.google.com/document/d/1qSjpGOiHrYuolFDX7KH7Ph-fEwu3CsW6VeR0tLKb2OE/edit?usp=sharing)
+- 📫 My CV - [Click to See](https://drive.google.com/file/d/1uppbMFhlInEjOX1GAUNjh-FVp0OL8AEG/view?usp=sharing)
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
