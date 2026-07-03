@@ -1,68 +1,139 @@
-<h2 align="left">
- <abc>
- <img src="./banner.png">
-  <br>
-  <br>
-    Hello! I'm Nazmul Huda. A MERN Stack Web Developer :computer:
-  <br>
-  <br>
- </abc>
-  
-  <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=dark&border=false" width="49%" height=200>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=nznazmulhuda&theme=shadow-brown" width="49%" height=200>
-  </p>
-  
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-    <a href="https://nodejs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
-    <a href="https://expressjs.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a>
-    <a href="https://nextjs.org/" target="_blank"> 
-        <img src="https://i.ibb.co/LnQ2kf5/png-transparent-next-js-hd-logo-removebg-preview.png" alt="next js" width="40" height="40"/> 
-    </a>
+<div align="center">
+
+<img src="./assets/github-banner.png" width="100%" />
+
+<br>
+
+# Nazmul Huda
+
+### Full Stack Developer
+
+Building modern, scalable and high-performance web applications.
+
+<p>
+
+<a href="https://nazmulhuda.me">
+Portfolio
+</a>
+•
+<a href="mailto:connect@nazmulhuda.me">
+Email
+</a>
+
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+</div>
 
-- 👨🏽‍💻 I’m currently working on react.js, next.js.
-- 🌱 I’m currently learning typescript
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Nazmul Huda](https://www.facebook.com/nznazmulhuda)
-- 💬 Contact no - 01580507352 (mobile & whatsapp)
-- 🌱 Email address - nznazmulhuda04@gmail.com
-- 📫 My CV - [Click to See](https://drive.google.com/file/d/1uppbMFhlInEjOX1GAUNjh-FVp0OL8AEG/view?usp=sharing)
+---
 
+## About
 
+I'm a Full Stack Developer from Bangladesh passionate about building modern web applications that combine clean architecture, great user experience, and scalable backend systems.
 
-<h2 align="left">:heart: Let's get connected:</h2>
+I enjoy turning ideas into production-ready products while writing clean, maintainable code.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nazmul_Huda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nznazmulhuda4)](https://www.linkedin.com/in/nznazmulhuda4) 
-[![Twitter Badge](https://img.shields.io/badge/-@nazmulhuda127-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/NazmulHuda127)](https://x.com/NazmulHuda127) 
-[![Facebook Badge](https://img.shields.io/badge/-@nznazmulhuda-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nznazmulhuda)](https://www.facebook.com/nznazmulhuda)
-[![Instagram Badge](https://img.shields.io/badge/-@nznazmulhuda-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nznazmulhuda/)](https://www.instagram.com/nznazmulhuda/)
+Currently exploring AI integration, automation, and scalable software architecture.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,npm" />
+</p>
+
+---
+
+# Featured Projects
+
+## Orbit Outfit
+
+Production-ready e-commerce platform featuring authentication, shopping cart, order management, Redis caching and optimized backend performance.
+
+**Stack**
+
+Next.js • Express.js • PostgreSQL • Redis
+
+---
+
+## Hotel Management System
+
+Modern hotel management platform with room booking, dashboard, staff management and reporting.
+
+**Stack**
+
+Next.js • Express.js • MongoDB • Tailwind CSS
+
+---
+
+## Personal Portfolio
+
+A fast, modern portfolio built with Next.js featuring smooth animations, SEO optimization and responsive design.
+
+**Stack**
+
+Next.js • Tailwind CSS • Framer Motion
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=nznazmulhuda&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nznazmulhuda&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## Currently
+
+- Building scalable Full Stack applications
+- Learning AI Integration
+- Exploring System Design
+- Improving Backend Architecture
+
+---
+
+## Let's Connect
+
+- 🌐 https://nazmulhuda.me
+- 📧 connect@nazmulhuda.me
+
+---
+
+<div align="center">
+
+**"First solve the problem. Then write clean code."**
+
+</div>
