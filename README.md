@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" />
+<img src="./assets/github-banner.png" alt="Nazmul Huda" width="100%" />
 
 <br>
 
@@ -11,32 +11,26 @@
 Building modern, scalable and high-performance web applications.
 
 <p>
-
-<a href="https://nazmulhuda.me">
-Portfolio
-</a>
+<a href="https://nazmulhuda.me">Portfolio</a>
 •
-<a href="mailto:connect@nazmulhuda.me">
-Email
-</a>
-
+<a href="mailto:connect@nazmulhuda.me">Email</a>
 </p>
 
 </div>
 
 ---
 
-## About
+# About
 
-I'm a Full Stack Developer from Bangladesh passionate about building modern web applications that combine clean architecture, great user experience, and scalable backend systems.
+I'm a Full Stack Developer from Bangladesh who enjoys building scalable web applications with modern technologies.
 
-I enjoy turning ideas into production-ready products while writing clean, maintainable code.
+My primary focus is developing clean, maintainable software that delivers excellent user experiences while following industry best practices.
 
-Currently exploring AI integration, automation, and scalable software architecture.
+Currently exploring AI integration, automation, and scalable backend architecture.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Frontend
 
@@ -66,63 +60,99 @@ Currently exploring AI integration, automation, and scalable software architectu
 
 # Featured Projects
 
-## Orbit Outfit
+## 🛒 Orbit Outfit
 
-Production-ready e-commerce platform featuring authentication, shopping cart, order management, Redis caching and optimized backend performance.
+Production-ready full-stack e-commerce platform featuring authentication, shopping cart, order management, Redis caching, and optimized backend performance.
 
-**Stack**
+**Tech Stack**
 
-Next.js • Express.js • PostgreSQL • Redis
+`Next.js` • `Express.js` • `PostgreSQL` • `Redis`
 
----
+**Links**
 
-## Hotel Management System
+🌐 https://orbitoutfit.com
 
-Modern hotel management platform with room booking, dashboard, staff management and reporting.
-
-**Stack**
-
-Next.js • Express.js • MongoDB • Tailwind CSS
+💻 https://github.com/nznazmulhuda/orbit-outfit *(replace with actual repository)*
 
 ---
 
-## Personal Portfolio
+## 🏨 Hotel Management System
 
-A fast, modern portfolio built with Next.js featuring smooth animations, SEO optimization and responsive design.
+Modern hotel management platform with booking management, room management, customer records, reporting, and role-based dashboards.
 
-**Stack**
+**Tech Stack**
 
-Next.js • Tailwind CSS • Framer Motion
+`Next.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
+
+**Links**
+
+🌐 https://hotelmanagementsoft.vercel.app
+
+💻 https://github.com/nznazmulhuda/hotel-management-system *(replace with actual repository)*
 
 ---
 
-# GitHub Analytics
+## 🌐 Personal Portfolio
+
+A modern portfolio showcasing projects, technical skills, and professional experience with a focus on performance, accessibility, and responsive design.
+
+**Tech Stack**
+
+`Next.js` • `Tailwind CSS` • `Framer Motion`
+
+**Links**
+
+🌐 https://nazmulhuda.me
+
+💻 https://github.com/nznazmulhuda/portfolio *(replace with actual repository)*
+
+---
+
+<!-- # GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=nznazmulhuda&theme=github-dark-blue&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nznazmulhuda&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nznazmulhuda&theme=github-dark&hide_border=true"/>
+
+</div>
+
+--- -->
+
+# Professional Experience
+
+**Frontend Developer & No-Code / Low-Code Developer**  
+**InnerScape Agency** *(Sep 2025 – Present)*
+
+- Developed modern web applications using React.js, Next.js, Node.js, and TypeScript.
+- Built responsive business websites and scalable client solutions.
+- Delivered 40+ client projects across React, Next.js, Framer, Webflow, and WordPress.
+- Collaborated with remote teams while maintaining clean and maintainable code.
+
 ---
 
-## Currently
+# Let's Connect
 
-- Building scalable Full Stack applications
-- Learning AI Integration
-- Exploring System Design
-- Improving Backend Architecture
+<p align="center">
 
----
+<a href="https://nazmulhuda.me">Portfolio</a> •
+<a href="mailto:connect@nazmulhuda.me">Email</a>
 
-## Let's Connect
-
-- 🌐 https://nazmulhuda.me
-- 📧 connect@nazmulhuda.me
+</p>
 
 ---
 
 <div align="center">
 
-**"First solve the problem. Then write clean code."**
+> **"First solve the problem. Then write clean code."**
 
 </div>
