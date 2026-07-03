@@ -11,7 +11,7 @@
 Building modern, scalable and high-performance web applications.
 
 <p>
-<a href="https://nazmulhuda.me">Portfolio</a>
+<a target="_blank" href="https://nazmulhuda.me">Portfolio</a>
 •
 <a href="mailto:connect@nazmulhuda.me">Email</a>
 </p>
@@ -72,7 +72,7 @@ Production-ready full-stack e-commerce platform featuring authentication, shoppi
 
 🌐 https://orbitoutfit.com
 
-💻 https://github.com/nznazmulhuda/orbit-outfit *(replace with actual repository)*
+💻 https://github.com/nznazmulhuda/orbit-outfits *(replace with actual repository)*
 
 ---
 
@@ -89,22 +89,6 @@ Modern hotel management platform with booking management, room management, custo
 🌐 https://hotelmanagementsoft.vercel.app
 
 💻 https://github.com/nznazmulhuda/hotel-management-system *(replace with actual repository)*
-
----
-
-## 🌐 Personal Portfolio
-
-A modern portfolio showcasing projects, technical skills, and professional experience with a focus on performance, accessibility, and responsive design.
-
-**Tech Stack**
-
-`Next.js` • `Tailwind CSS` • `Framer Motion`
-
-**Links**
-
-🌐 https://nazmulhuda.me
-
-💻 https://github.com/nznazmulhuda/portfolio *(replace with actual repository)*
 
 ---
 
@@ -144,8 +128,8 @@ A modern portfolio showcasing projects, technical skills, and professional exper
 
 <p align="center">
 
-<a href="https://nazmulhuda.me">Portfolio</a> •
-<a href="mailto:connect@nazmulhuda.me">Email</a>
+<a target="_blank" href="https://nazmulhuda.me">Portfolio</a> •
+<a target="_blank" href="mailto:connect@nazmulhuda.me">Email</a>
 
 </p>
 
