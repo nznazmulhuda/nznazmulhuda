@@ -100,9 +100,9 @@ Next.js • Tailwind CSS • Framer Motion
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nznazmulhuda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=nznazmulhuda&theme=transparent&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=nznazmulhuda&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -110,7 +110,7 @@ Next.js • Tailwind CSS • Framer Motion
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nznazmulhuda&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nznazmulhuda&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
